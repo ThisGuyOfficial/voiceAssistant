@@ -12,6 +12,7 @@
 #define SPECTRO_FREQ_STRAT 20
 #define SPECTRO_FREQ_END 20000
 
+
 namespace plt = matplotlibcpp;
 
 typedef struct{
